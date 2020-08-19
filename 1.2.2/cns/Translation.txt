@@ -1,35 +1,35 @@
 ﻿DIY : DIY
-Chemistry : Translation Here
-Drinks : Translation Here
-Farming : Translation Here
-Husbandry : Translation Here
-Butchery : Translation Here
-Raw Materials : Translation Here
-Tools : Translation Here
-Furniture : Translation Here
-Meat-Based Dishes : Translation Here
-Preserves : Translation Here
-Plant-Based Dishes : Translation Here
-There isn't room in my bag for that. : Translation Here
-Fire needs to be fed, friend. I'd better put some wood in the woodstore beside the fireplace. : Translation Here
+Chemistry : 化学
+Drinks : 饮品
+Farming : 农耕
+Husbandry : 畜牧
+Butchery : 宰杀
+Raw Materials : 原料
+Tools : 工具
+Furniture : 家俱
+Meat-Based Dishes : 荤菜
+Preserves : 果酱
+Plant-Based Dishes : 素材
+There isn't room in my bag for that. : 我的包真的挤不下了。
+Fire needs to be fed, friend. I'd better put some wood in the woodstore beside the fireplace. : 火苗需要喂养，才能壮大。我最好在壁炉旁的储木筐里，放一些木料。
 One at a time, please, says the cooking pot. : Translation Here
-There's no room in there for anything else. : Translation Here
-I'm too exhausted to keep working. : Translation Here
-If I sleep now I'll wake up a desiccated mummy, and that's the worst kind of mummy. : Translation Here
-If I sleep now my stomach will starve to death...wait a minute... : Translation Here
-I'm starving... : Translation Here
-I'm dying of thirst, I need to drink something. Immediately. Better yet, a little while ago. : Translation Here
-I don't feel good... : Translation Here
-I'm dying! Argh! Beurg! Gah! : Translation Here
-Ah! It's broken. My kingdom for a workbench and a sharpening stone : Translation Here
-Come on, Léon. Hoe first, then plant. You got this. : Translation Here
-Just pouring water on the ground probably isn't a good idea, all things considered... : Translation Here
+There's no room in there for anything else. : 此处没有地方了。
+I'm too exhausted to keep working. : 我很疲劳了，没精力继续工作。
+If I sleep now I'll wake up a desiccated mummy, and that's the worst kind of mummy. : 如果现在睡觉，我想我们会制造一具干枯的木乃伊——那是最糟糕的木乃伊。
+If I sleep now my stomach will starve to death...wait a minute... : 我都饿成这样了，如果现在上床，估计再也爬不下来了……唉，还是先想想办法吧。
+I'm starving... : 饿死我了……
+I'm dying of thirst, I need to drink something. Immediately. Better yet, a little while ago. : 我太渴了，我需要喝点什么，立刻——当然，更好的是：不久前。
+I don't feel good... : 我感觉不太好……
+I'm dying! Argh! Beurg! Gah! : 我要死啦！啊！贝格！嗷！
+Ah! It's broken. My kingdom for a workbench and a sharpening stone : 哦它坏了！我们需要一个工作台和一块磨刀石，方可维护它。
+Come on, Léon. Hoe first, then plant. You got this. : 嘿，里昂，先锄地、再种植，你明白的。
+Just pouring water on the ground probably isn't a good idea, all things considered... : 嘿！想清楚再做，仅仅是将水随意泼洒，这算不上一个好主意。
 I need to save fertlizer for ground I've prepared with the hoe. : Translation Here
-My energy is better spent elsewhere. : Translation Here
-There's something in the way. : Translation Here
-I can't swallow anymore... : Translation Here
-There is not enough fuel. : Translation Here
-Chicken : Translation Here
+My energy is better spent elsewhere. : 我的精力最好用在其他地方。
+There's something in the way. : 路上有什么东西。
+I can't swallow anymore... : 实在是吃不下了
+There is not enough fuel. : 燃料不够。
+Chicken : 鸡
 What a fine, fat chicken. I can see it now: Léon's Green Fried Chicken. Maybe it's the radiation, but it would seem I don't need a rooster for them to reproduce. Poor roosters, nothing to do now, nobody wants them... : Translation Here
 Egg : Translation Here
 I'm going to be a father! Wait. That doesn't sound right. I'm just going to leave this here and see if it hatches... : Translation Here
@@ -37,8 +37,8 @@ Chick : Translation Here
 You're not going to eat it are you?!? : Translation Here
 Rat : Translation Here
 Rats are pretty cute when you're not hungry. Two rats and we'll have rat babies. Say that three times fast. Rat babies, bat rabies, rab scabies... : Translation Here
-Axe : Translation Here
-Probably good for chopping wood and stuff. You know, like an...axe. : Translation Here
+Axe : 斧子
+Probably good for chopping wood and stuff. You know, like an...axe. : 有些工具很适合切碎木材和物品，你知道的，就像是……斧子。
 Hoe : Translation Here
 Use this to prepare the ground for planting. : Translation Here
 Compost : Translation Here
@@ -47,7 +47,7 @@ Flask : Translation Here
 Things are looking up, Léon. I bet I can fill this at the water collector. : Translation Here
 Sleeveless T-shirt : Translation Here
 Like a white trash bag with holes for arms...or not. : Translation Here
-Jeans : Translation Here
+Jeans : 牛仔裤
 I read once the first jeans were made from tent fabric. Those must have been some small tents. Or some small people. : Translation Here
 Pickaxe : Translation Here
 A special axe just for rocks? Everybody's got to be special these days. It also allows you to dig an irrigation hole. : Translation Here
@@ -63,8 +63,8 @@ Wheat : Translation Here
 From here to bread is only a month's worth of work. : Translation Here
 Beans : Translation Here
 Beans, beans, good for the heart... : Translation Here
-Corn : Translation Here
-Ahh, for a jug of butter and a good French film. At least the rats love it. : Translation Here
+Corn : 玉米
+Ahh, for a jug of butter and a good French film. At least the rats love it. : 啊哈，我们还需要一罐黄油和一部精妙的法国电影……好吧，至少老鼠会喜欢它。
 Gas Mask : Translation Here
 Holds 100 Units : Translation Here
 Turnip : Translation Here
@@ -75,16 +75,16 @@ Flower Tree Seed : Translation Here
 At least I won't have to water these. And I bet all kinds of bugs will be attracted to them. Chocolate covered crickets, anyone? No? Just me? : Translation Here
 Maple Seed : Translation Here
 Plant it, then sit back and watch the world turn green. And--bonus--no watering necessary! : Translation Here
-Elm Seed : Translation Here
-Plant it then sit back and watch the world turn green. And--bonus--no watering! : Translation Here
+Elm Seed : 榆树种子
+Plant it then sit back and watch the world turn green. And--bonus--no watering! : 种植、等待，这世界因此多出一抹绿色。（无需浇水！）
 Wheat Seed : Translation Here
 Wheat Seed : Translation Here
 Cypress Seed : Translation Here
 Plant it then sit back and watch the world turn green. And--bonus--no watering! : Translation Here
 Bean Seed : Translation Here
 If you like beans, you'll love these seeds! They'll come in handy when making chicken food, too. : Translation Here
-Corn Seed : Translation Here
-Not the popping kind, unfortunately, but the rats don't complain. : Translation Here
+Corn Seed : 玉米种子
+Not the popping kind, unfortunately, but the rats don't complain. : 可惜这还不是爆米花，不过至少老鼠不会抱怨。
 Turnip Seed : Translation Here
 Turn over some ground for turnip-time. Great for people and pigs. : Translation Here
 Thyme Seed : Translation Here
@@ -119,8 +119,8 @@ Wooden Gate : Translation Here
 Your basic wooden gate. For going into and out of pastures. : Translation Here
 Branch : Translation Here
 Branch in tree wood. : Translation Here
-Raw wood : Translation Here
-A plain old log. Slap 'em in the woodstore beside the fireplace for cooking fuel. : Translation Here
+Raw wood : 原木
+A plain old log. Slap 'em in the woodstore beside the fireplace for cooking fuel. : 朴素的木头。将它扔进壁炉，在噼啪声中化作烹饪美食的燃料。
 Espresso : Translation Here
 Coffee as bitter as my mother-in-law. This stuff will keep you awake at night. Just like your fears. : Translation Here
 Rope : Translation Here
@@ -145,7 +145,7 @@ Hay : Translation Here
 Like grass, but dead. And dry. : Translation Here
 Mattress : Translation Here
 A nice, cozy mattress crawling with bugs for when you're too knackered to care. : Translation Here
-Stone : Translation Here
+Stone : 石块
 Like a pebble, but larger. : Translation Here
 Plank : Translation Here
 For building not surfing. Remember surfing? Ha! Remember oceans? : Translation Here
@@ -245,7 +245,7 @@ Chamomile Tea : Translation Here
 Chamomile Tea for Comfy Sleep! I should have worked in advertising. : Translation Here
 Boiled Tomato : Translation Here
 Better than dandelion, I'll say that. : Translation Here
-Clay : Translation Here
+Clay : 粘土
 Handy in all sorts of ways. : Translation Here
 Iron Bar : Translation Here
 Like wire, but thicker. Much thicker. And made from iron. Okay, so not much like wire. : Translation Here
@@ -259,7 +259,7 @@ Rat Food : Translation Here
 Fatten up a rat who'll fatten up me. : Translation Here
 Salt Stone : Translation Here
 Might look like sugar, but never ice a cake with it. Live and learn. : Translation Here
-Sharpening Stone : Translation Here
+Sharpening Stone : 磨刀石
 Works wonders on broken tools at the workbench. : Translation Here
 Bag of Salt : Translation Here
 A bag containing salt. Otherwise it would be called something else. : Translation Here
@@ -289,7 +289,7 @@ Pork and Beans : Translation Here
 Beans and meat. What's not to love? : Translation Here
 Sauerkraut : Translation Here
 Like pork and beans. Without the beans. And with cabbage. Who's idea was this? : Translation Here
-Backpack : Translation Here
+Backpack : 背包
 Just like Dora's, except hers was purple. She was always a little uppity about that. : Translation Here
 Scissors : Translation Here
 For shaving a head. Or, well, anywhere else, I suppose. : Translation Here
@@ -409,12 +409,12 @@ Dead Beetle : Translation Here
 Don't try to juice it! : Translation Here
 Beetle Kabob : Translation Here
 Cruchy, crispy, kind of creepy. : Translation Here
-XXL Backpack : Translation Here
+XXL Backpack : 大号背包
 Better than a 4.11 backpack : Translation Here
 Trash Incinerator : Translation Here
 Anything you'll never, ever want to see again, toss in here. No, mother-in-laws don't fit. : Translation Here
-Concrete Slab : Translation Here
-For making pretty little paths or stopping the spread of toxic fungus, take your pick. : Translation Here
+Concrete Slab : 混凝土板
+For making pretty little paths or stopping the spread of toxic fungus, take your pick. : 如果你喜欢羊肠小径，或者想要阻隔有毒真菌，它是个不错的选择。
 Coffee Seeds : Translation Here
 This one's for planting, not for roasting. : Translation Here
 Bric-a-brac : Translation Here
@@ -475,15 +475,15 @@ Tomato Preserves : Translation Here
 Red as cherries, but still tomatoes... : Translation Here
 Turnip à la Léon : Translation Here
 Exactly like a carrot except for the color and the shape. : Translation Here
-Fruit : Translation Here
-Cloth : Translation Here
-Consumable : Translation Here
-Furniture : Translation Here
-Seed : Translation Here
-Resource : Translation Here
-Waste : Translation Here
-Fillable : Translation Here
-Fuel : Translation Here
+Fruit : 果实
+Cloth : 布料
+Consumable : 消耗品
+Furniture : 设施
+Seed : 种子
+Resource : 资源
+Waste : 废品
+Fillable : 填充
+Fuel : 燃料
 Don't get carried away, Léon. If you think you can fix up this pile of scrap to play the fool on a beach somewhere you're going to end up with tetanus, not with all the ladies. : Translation Here
 Life hangs by a thread, eh? I'll just help myself to these jeans, and that knife...what? It's not like he's going to be needing them anymore. : Translation Here
 The space capsul might be trashed, but the cargo box is intact. I wonder if UASA will deduct the cost of the crash from my pay...ha! I'd like to see them try. I'd like to see them period, to be honest, but that isn't likely, now is it? : Translation Here
@@ -498,7 +498,7 @@ My stomach must think I don't have teeth anymore. : Translation Here
 Hmm...what do we have to snack on around here? There's always my shoes, I guess. But seriously. I need to eat if you want to keep playing. : Translation Here
 I'm fading fast. I need food. Like, five minutes ago. : Translation Here
 I can't believe I'm still alive! Hang on a minute. This doesn't look much like the Earth I remember...is it possible the AI made a mistake? Eh, it could be worse--at least it's warm. : Translation Here
-I need water... : Translation Here
+I need water... : 水，我需要喝水……
 If I don't drink something, I'm going to die. It doesn't get much more clear cut than that. : Translation Here
 I've still got it! This is a fantastic cup of coffee. Where are you now, Frank, with your gourmet coffee blends? What's that? Dead for 300 years? Jokes on you, Frank. Jokes on you. : Translation Here
 The bubbles are poisoning me--I need to drink Thyme Tea. : Translation Here
@@ -514,48 +514,48 @@ It would seem Mother Nature has had enough of our meddling, our desperate attemp
  : Translation Here
 <= Steelwork : Translation Here
 Beware the fungus, and walk not upon it for it will kill you without pause. Planting trees makes it recede, but I'm too tired for all that now. If you have more strength, go, explore. I met an old man once who played the scientist with mutagens and feasted upon strange insects of his own creation. I prefer my rats and chickens, but perhaps the oddities will suit you. Seek him out, if you dare. Mayhaps his machinations have turned him into a monster, so beware, lest he eat you as well. Here find your inheritance, poor soul, the legacy of all mankind. Ciao, I have a collar waiting and it's impatience cannot be denied. : Translation Here
-Day : Translation Here
-Hour : Translation Here
-Inventory : Translation Here
-Equip : Translation Here
-Unequip : Translation Here
-Consume : Translation Here
-Learn : Translation Here
-Read : Translation Here
-Drink : Translation Here
-Contaminated : Translation Here
-Boil : Translation Here
-Fabrication Time : Translation Here
-Time : Translation Here
-Continue : Translation Here
-New Game : Translation Here
-Exit : Translation Here
-Shave : Translation Here
-Drop : Translation Here
-Save finished : Translation Here
-Skip : Translation Here
-Save : Translation Here
-Help : Translation Here
-Close help : Translation Here
-Saving... : Translation Here
-Yes : Translation Here
-No : Translation Here
+Day : 天
+Hour : 小时
+Inventory : 背包
+Equip : 装备
+Unequip : 卸掉
+Consume : 使用
+Learn : 学习
+Read : 阅读
+Drink : 喝掉
+Contaminated : 已被污染
+Boil : 煮沸
+Fabrication Time : 制造耗时
+Time : 时间
+Continue : 继续
+New Game : 新游戏
+Exit : 结束
+Shave : 刮胡子
+Drop : 移除
+Save finished : 存档成功
+Skip : 跳过
+Save : 保存游戏
+Help : 快速指南
+Close help : 我了解啦
+Saving... : 保存中
+Yes : 了解
+No : 拒绝
 Recipe Added! : Translation Here
 Place water here : Translation Here
-Credit : Translation Here
-Main menu : Translation Here
-Monday : Translation Here
-Tuesday : Translation Here
-Wednesday : Translation Here
-Thursday : Translation Here
-Friday : Translation Here
-Saturday : Translation Here
-Sunday : Translation Here
-Load : Translation Here
-leftover : Translation Here
-Repair : Translation Here
+Credit : 致谢
+Main menu : 主菜单
+Monday : 周一
+Tuesday : 周二
+Wednesday : 周三
+Thursday : 周四
+Friday : 周五
+Saturday : 周六
+Sunday : 周日
+Load : 载入存档
+leftover : 剩余
+Repair : 修理
 Recharging : Translation Here
-Fuel : Translation Here
+Fuel : 燃料
 Will decay in : Translation Here
 days : Translation Here
 Decayed : Translation Here
@@ -603,26 +603,26 @@ Forgotten by his compatriots, he spent a long, dreamless, cryogenic night travel
 Since he has been gone, however, Earth has been ravaged by a toxic fungal infestation that has left nothing behind save the ragged wreckage of mankind. Thanks Rosanto!
 
 But he is, afterall, an earthling, and he is home. He will survive...or not. Armed only with a protocal brief from UASA (pronounced "WAZA") and the little he learned as a boyscout in the '80s, he must adapt quickly or he will surely succomb to the toxic slime poisoning the planet. : Translation Here
-Volume : Translation Here
-Resolution : Translation Here
-Screen Mode : Translation Here
-Fullscreen : Translation Here
-Fullscreen Window : Translation Here
-Maximized Window : Translation Here
-Windowed : Translation Here
-Controls : Translation Here
-Move Up : Translation Here
-Move Left : Translation Here
-Move Down : Translation Here
-Move Right : Translation Here
-Interact : Translation Here
-Use equipped object : Translation Here
-Open inventory : Translation Here
-Access options : Translation Here
-Quick access 01 : Translation Here
-Quick access 02 : Translation Here
-Quick access 03 : Translation Here
-Quick access 04 : Translation Here
-Quick access 05 : Translation Here
-Settings : Translation Here
-Zoom +/- : Translation Here
+Volume : 音量
+Resolution : 分辨率
+Screen Mode : 显示模式
+Fullscreen : 全屏
+Fullscreen Window : 全屏窗口
+Maximized Window : 最大化窗口
+Windowed : 窗口化
+Controls : 按键
+Move Up : 向上
+Move Left : 向左
+Move Down : 向下
+Move Right : 向右
+Interact : 互动
+Use equipped object : 使用装备的物品
+Open inventory : 打开背包
+Access options : 显示游戏选项
+Quick access 01 : 快捷栏 1
+Quick access 02 : 快捷栏 2
+Quick access 03 : 快捷栏 3
+Quick access 04 : 快捷栏 4
+Quick access 05 : 快捷栏 5
+Settings : 设置
+Zoom +/- : 视野切换
