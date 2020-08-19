@@ -1,0 +1,628 @@
+﻿DIY : DIY
+Chemistry : Translation Here
+Drinks : Translation Here
+Farming : Translation Here
+Husbandry : Translation Here
+Butchery : Translation Here
+Raw Materials : Translation Here
+Tools : Translation Here
+Furniture : Translation Here
+Meat-Based Dishes : Translation Here
+Preserves : Translation Here
+Plant-Based Dishes : Translation Here
+There isn't room in my bag for that. : Translation Here
+Fire needs to be fed, friend. I'd better put some wood in the woodstore beside the fireplace. : Translation Here
+One at a time, please, says the cooking pot. : Translation Here
+There's no room in there for anything else. : Translation Here
+I'm too exhausted to keep working. : Translation Here
+If I sleep now I'll wake up a desiccated mummy, and that's the worst kind of mummy. : Translation Here
+If I sleep now my stomach will starve to death...wait a minute... : Translation Here
+I'm starving... : Translation Here
+I'm dying of thirst, I need to drink something. Immediately. Better yet, a little while ago. : Translation Here
+I don't feel good... : Translation Here
+I'm dying! Argh! Beurg! Gah! : Translation Here
+Ah! It's broken. My kingdom for a workbench and a sharpening stone : Translation Here
+Come on, Léon. Hoe first, then plant. You got this. : Translation Here
+Just pouring water on the ground probably isn't a good idea, all things considered... : Translation Here
+I need to save fertlizer for ground I've prepared with the hoe. : Translation Here
+My energy is better spent elsewhere. : Translation Here
+There's something in the way. : Translation Here
+I can't swallow anymore... : Translation Here
+There is not enough fuel. : Translation Here
+Chicken : Translation Here
+What a fine, fat chicken. I can see it now: Léon's Green Fried Chicken. Maybe it's the radiation, but it would seem I don't need a rooster for them to reproduce. Poor roosters, nothing to do now, nobody wants them... : Translation Here
+Egg : Translation Here
+I'm going to be a father! Wait. That doesn't sound right. I'm just going to leave this here and see if it hatches... : Translation Here
+Chick : Translation Here
+You're not going to eat it are you?!? : Translation Here
+Rat : Translation Here
+Rats are pretty cute when you're not hungry. Two rats and we'll have rat babies. Say that three times fast. Rat babies, bat rabies, rab scabies... : Translation Here
+Axe : Translation Here
+Probably good for chopping wood and stuff. You know, like an...axe. : Translation Here
+Hoe : Translation Here
+Use this to prepare the ground for planting. : Translation Here
+Compost : Translation Here
+A little of this on plain old ground and voilá! Fertile earth! : Translation Here
+Flask : Translation Here
+Things are looking up, Léon. I bet I can fill this at the water collector. : Translation Here
+Sleeveless T-shirt : Translation Here
+Like a white trash bag with holes for arms...or not. : Translation Here
+Jeans : Translation Here
+I read once the first jeans were made from tent fabric. Those must have been some small tents. Or some small people. : Translation Here
+Pickaxe : Translation Here
+A special axe just for rocks? Everybody's got to be special these days. It also allows you to dig an irrigation hole. : Translation Here
+Scythe : Translation Here
+Perfect for cutting grass. Note to self: do not use on hair. Again. : Translation Here
+Work Boots : Translation Here
+Nice and sturdy. And there are even two of them! : Translation Here
+TShirt : Translation Here
+For the modest wife beater. : Translation Here
+Watering Can : Translation Here
+See those little holes? That's where the water comes from. : Translation Here
+Wheat : Translation Here
+From here to bread is only a month's worth of work. : Translation Here
+Beans : Translation Here
+Beans, beans, good for the heart... : Translation Here
+Corn : Translation Here
+Ahh, for a jug of butter and a good French film. At least the rats love it. : Translation Here
+Gas Mask : Translation Here
+Holds 100 Units : Translation Here
+Turnip : Translation Here
+This is more like dieting than I'm comfortable with. : Translation Here
+Canned Peaches : Translation Here
+That's what it's claiming to be anyway. We shall see, little can. We shall see. : Translation Here
+Flower Tree Seed : Translation Here
+At least I won't have to water these. And I bet all kinds of bugs will be attracted to them. Chocolate covered crickets, anyone? No? Just me? : Translation Here
+Maple Seed : Translation Here
+Plant it, then sit back and watch the world turn green. And--bonus--no watering necessary! : Translation Here
+Elm Seed : Translation Here
+Plant it then sit back and watch the world turn green. And--bonus--no watering! : Translation Here
+Wheat Seed : Translation Here
+Wheat Seed : Translation Here
+Cypress Seed : Translation Here
+Plant it then sit back and watch the world turn green. And--bonus--no watering! : Translation Here
+Bean Seed : Translation Here
+If you like beans, you'll love these seeds! They'll come in handy when making chicken food, too. : Translation Here
+Corn Seed : Translation Here
+Not the popping kind, unfortunately, but the rats don't complain. : Translation Here
+Turnip Seed : Translation Here
+Turn over some ground for turnip-time. Great for people and pigs. : Translation Here
+Thyme Seed : Translation Here
+Thyme Seed : Translation Here
+Tomato Seed : Translation Here
+lant them and get, wait for it, tomatoes! : Translation Here
+Thyme : Translation Here
+Purifying and detoxifying, these weedy plants will keep you healthy. : Translation Here
+Tomato : Translation Here
+A nice, juicy tomato. : Translation Here
+Plastic Bottle : Translation Here
+Holds up to 100 units of water. Can be refilled at a water collector. : Translation Here
+Wooden Chest : Translation Here
+For all your basic storage needs. : Translation Here
+Composter : Translation Here
+Place outside and add organic waste to get compost. : Translation Here
+Bed : Translation Here
+A place to sleep. Useful for treating insomnia. : Translation Here
+Water Collector : Translation Here
+Place outside and watch it fill with rain water. No work necessary, just the way I like it. : Translation Here
+Small Water Collector : Translation Here
+A barrel that stores rainwater. : Translation Here
+Lethal Trap : Translation Here
+Place outside and kill some little animals. Mmm...rat-kabobs anyone? : Translation Here
+Non-Lethal Trap : Translation Here
+Use to catch critters for captivity, because animals are tasty. And cute. But mostly tasty. : Translation Here
+Seed Sorter : Translation Here
+Dump in fruit or veg and get yourself some seeds. : Translation Here
+Wooden Fence : Translation Here
+Like chain link, but without the links. : Translation Here
+Wooden Gate : Translation Here
+Your basic wooden gate. For going into and out of pastures. : Translation Here
+Branch : Translation Here
+Branch in tree wood. : Translation Here
+Raw wood : Translation Here
+A plain old log. Slap 'em in the woodstore beside the fireplace for cooking fuel. : Translation Here
+Espresso : Translation Here
+Coffee as bitter as my mother-in-law. This stuff will keep you awake at night. Just like your fears. : Translation Here
+Rope : Translation Here
+Can be used for many purposes, I learned recently that it has found its utility for the last occupant... : Translation Here
+Total curative : Translation Here
+Kills germs, not weeds. : Translation Here
+Detoxinator 1000 : Translation Here
+Detox-Be-Gone. Where it goes, nobody knows. : Translation Here
+Scrap Metal : Translation Here
+Iron : Translation Here
+Wire : Translation Here
+I'm thinking 'chair.' But I could be wrong... : Translation Here
+Revivelizer : Translation Here
+Brings dead plants back to the land of the living, which, let's be honest, is where the fun is. : Translation Here
+Inert Flower Tree Seed : Translation Here
+These are d-e-a-d dead. Maybe I could revive them in the lab. : Translation Here
+Metal Grid : Translation Here
+A whole mesh of metal. : Translation Here
+Fresh Grass : Translation Here
+Ahh, the green, green grass of home. No GMO's here, baby. : Translation Here
+Hay : Translation Here
+Like grass, but dead. And dry. : Translation Here
+Mattress : Translation Here
+A nice, cozy mattress crawling with bugs for when you're too knackered to care. : Translation Here
+Stone : Translation Here
+Like a pebble, but larger. : Translation Here
+Plank : Translation Here
+For building not surfing. Remember surfing? Ha! Remember oceans? : Translation Here
+Spring : Translation Here
+Also called a spiral wire. Or not. : Translation Here
+Dead revival : Translation Here
+Of what to wake you even if you are not dead. : Translation Here
+Cloth : Translation Here
+A simple piece of old fabric. : Translation Here
+Box of nails : Translation Here
+Watch out, fingers! : Translation Here
+Machete : Translation Here
+For hacking stuff up. : Translation Here
+Metal File : Translation Here
+Takes what's rough and makes it smooth. Like my moves. : Translation Here
+Hammer : Translation Here
+To sink nails with dexterity or smash fingers with clumsiness. : Translation Here
+Mortar and Pestle : Translation Here
+Useful for chemistry and for cooking. : Translation Here
+Wood Saw : Translation Here
+A saw for sawing wood. It's s'awsome! : Translation Here
+Aloe Vera : Translation Here
+It contains a lot of water, a little bit toxic but very useful in case of lack of boiled water... : Translation Here
+Glass Jar : Translation Here
+For a bug, a bee, a firelfly or chemistry. Léon, you're a poet! : Translation Here
+Chemical Blessing : Translation Here
+Wow! God bless Mendeleïev! : Translation Here
+Chamomile : Translation Here
+If sleepy time is what you need, chamomile's got your back. Note to self: much better in tea form. : Translation Here
+Edible Mushroom : Translation Here
+What did we learn in scouts? Tall and tan, safe for man. Short and brown, will take you down. Red with spots, touch not.  : Translation Here
+Cooked Edible Mushrooms : Translation Here
+At least it's healthy, right? : Translation Here
+Cooked Mutagenic Mushroom : Translation Here
+Even cooked, it's inedible... : Translation Here
+Mutagenic Mushroom : Translation Here
+I have always dreamt of a frog-dog... : Translation Here
+Soporific Mushroom : Translation Here
+Taller? No! More tired? Yes! : Translation Here
+Cooked Soporific Mushroom : Translation Here
+More bearable when baked but still indigestible. Kind of like life. : Translation Here
+Toxic Mushroom : Translation Here
+Maybe I can figure out a use for this in the lab. : Translation Here
+Cooked Toxic Mushroom : Translation Here
+Fantastic. Still toxic, even after cooking. : Translation Here
+Revivelizer : Translation Here
+Brings dead plants back to the land of the living, which, let's be honest, is where the fun is. : Translation Here
+Roasted Coffee Bean : Translation Here
+Will keep you going long after you should have stopped to rest. : Translation Here
+Green Coffee Bean : Translation Here
+Must be roasted before brewing. : Translation Here
+Five-Bean Soup : Translation Here
+Better tasting and less toxic. Win-win. : Translation Here
+Boiled Corn : Translation Here
+Definitely better without the toxins! : Translation Here
+Stewed Turnips : Translation Here
+Cooked for me, raw for the pigs. What? I'm going to cook for a pig? : Translation Here
+Fried Egg : Translation Here
+Better cook it before it hatches into a chick so cute I can't bear to eat it. Who am I kidding? I'll eat anything, cute, not-so-cute, or downright ugly. : Translation Here
+Organic Waste : Translation Here
+Good old rotten stuff for the composter. : Translation Here
+Nettles : Translation Here
+You could eat it raw--if you like hives in your throat. Much more nourishing in soup form. Then again, what isn't? : Translation Here
+Boiled Nettles : Translation Here
+Good for you, but tastes like grass if grass were in a bad mood. : Translation Here
+Dandelion : Translation Here
+Can be eaten raw or cooked. Ugh. This is what it's come to, Léon. Eating weeds. : Translation Here
+Cooked Dandelion : Translation Here
+Edible. Barely. : Translation Here
+Chocolate Bar : Translation Here
+Oh my god, chocolate. Humans did one thing right, at least. : Translation Here
+Plucked Chicken : Translation Here
+Imagine a chicken, then imagine a chicken after you've yanked out all its feathers. : Translation Here
+Dead Chicken : Translation Here
+Quite dead, but still with feathers, guts, beak and feet. You know, all those things you don't want to eat. : Translation Here
+Roast Chicken : Translation Here
+When you're starving, it looks quite delicious. : Translation Here
+Vegetarian Stew : Translation Here
+Ratless but not tasteless! : Translation Here
+Butchered Rat : Translation Here
+Chop off the tail, slice off the ears, and it almost looks like a tiny little chicken. : Translation Here
+Dead Rat : Translation Here
+Totally dead. Not even breathing. : Translation Here
+Roast Rat : Translation Here
+Roasted rat. How did it come to this? : Translation Here
+Military Ration : Translation Here
+Your basic MRE: Meals Rejected by Everyone. At least it isn't infected by the toxins. : Translation Here
+Cooked Wild Greens : Translation Here
+Almost certainly good for you. Most definitely not good tasting. : Translation Here
+Cup of Coffee : Translation Here
+A hot, invigorating cup of coffee. : Translation Here
+Thyme Tea : Translation Here
+Purifies by cleaning out the toxins (and anything else you've eaten recently...). : Translation Here
+Water Collector Recipe : Translation Here
+Add to the farming section of the workbench. : Translation Here
+Chamomile Tea : Translation Here
+Chamomile Tea for Comfy Sleep! I should have worked in advertising. : Translation Here
+Boiled Tomato : Translation Here
+Better than dandelion, I'll say that. : Translation Here
+Clay : Translation Here
+Handy in all sorts of ways. : Translation Here
+Iron Bar : Translation Here
+Like wire, but thicker. Much thicker. And made from iron. Okay, so not much like wire. : Translation Here
+Iron : Translation Here
+Definitely one of the more useful objects I have found. : Translation Here
+Ferrite : Translation Here
+Stone with iron in it. Heavy, man. : Translation Here
+Chicken Food : Translation Here
+Pretty self-explanatory. : Translation Here
+Rat Food : Translation Here
+Fatten up a rat who'll fatten up me. : Translation Here
+Salt Stone : Translation Here
+Might look like sugar, but never ice a cake with it. Live and learn. : Translation Here
+Sharpening Stone : Translation Here
+Works wonders on broken tools at the workbench. : Translation Here
+Bag of Salt : Translation Here
+A bag containing salt. Otherwise it would be called something else. : Translation Here
+Cloth Bag : Translation Here
+Pretty much what it says. Good for holding animal feed. : Translation Here
+Salt : Translation Here
+For salting things. : Translation Here
+Clay Soil : Translation Here
+Dig it up. Or don't. Your funeral. : Translation Here
+Ore Extractor : Translation Here
+Good for extracting ore from certain stones. Note: also extracts fingers from hands. : Translation Here
+Ore Extractor Recipe : Translation Here
+Add to the DIY section of the workbench. : Translation Here
+Water Jug : Translation Here
+Holds up to 500 units of water. Great for cooking. : Translation Here
+Pliers : Translation Here
+Use to dismantle things. Like your wife's arguments. Or her dreams. : Translation Here
+Machete : Translation Here
+Great for hacking stuff to pieces. : Translation Here
+Honey... : Translation Here
+I wonder what this is all about? : Translation Here
+Cotton : Translation Here
+White and fluffy. Like life. Ha! Oh Léon, you're so funny. : Translation Here
+Canned Ravioli : Translation Here
+Not the one with the chef on it, darn it. I always liked him. : Translation Here
+Pork and Beans : Translation Here
+Beans and meat. What's not to love? : Translation Here
+Sauerkraut : Translation Here
+Like pork and beans. Without the beans. And with cabbage. Who's idea was this? : Translation Here
+Backpack : Translation Here
+Just like Dora's, except hers was purple. She was always a little uppity about that. : Translation Here
+Scissors : Translation Here
+For shaving a head. Or, well, anywhere else, I suppose. : Translation Here
+Razor : Translation Here
+For transforming men's faces into baby faces. Everyone loves baby faces. : Translation Here
+Cotton Seed : Translation Here
+Super useful if clothing is important to you. : Translation Here
+I am sick and tired of paying the mechanic! : Translation Here
+What could this letter be about, I wonder? : Translation Here
+Firefly Headlamp : Translation Here
+Perfect for all those dark and dingy places. Batteries not included. Also not needed. : Translation Here
+Wild Salad Recipe : Translation Here
+Add to the cooking pot. : Translation Here
+Where is Grandpa's seed? : Translation Here
+What do we have here? : Translation Here
+Flower Tree Seed Recipe : Translation Here
+Add to the lab. : Translation Here
+Expresso Recipe : Translation Here
+Add to the lab. : Translation Here
+Medicine Recipe : Translation Here
+Add to the lab. : Translation Here
+Detoxinator 1000 Recipe : Translation Here
+Add to the lab. : Translation Here
+Revivelizer Recipe : Translation Here
+Add to the lab. : Translation Here
+Bee : Translation Here
+Do not eat them alive. Bee-stung lips aren't helpful when you're the last man on earth. : Translation Here
+Firefly : Translation Here
+Tiny little flying lights. Like faries. Or stars. Or hope. Sigh. : Translation Here
+Worm : Translation Here
+Like Grandma always said, when life gives you worms, make wormaid. I never did like her... : Translation Here
+Bee Kabob : Translation Here
+Sweet! Tastes like honey! : Translation Here
+Worm Kabob : Translation Here
+Yep, still disgusting, but no longer deadly. : Translation Here
+Jar Cupboard : Translation Here
+For storing jars. Or not. You do you. : Translation Here
+Firefly Street Light : Translation Here
+Very illuminating. Only works outdoors. : Translation Here
+Firefly Street Light Recipe : Translation Here
+Add to the Tools section of the workbench. : Translation Here
+Vegetarian Stew Recipe : Translation Here
+Add to the cooking pot. : Translation Here
+Pig : Translation Here
+A beautiful pink pig! I'll need two if I want to get more. : Translation Here
+Uncooked Ham : Translation Here
+You could eat it raw, but mother wouldn't approve. : Translation Here
+Cooked Ham : Translation Here
+A little bread, a little butter, and voilá! Super sandwich! : Translation Here
+Dead Pig : Translation Here
+It's a bit sad, yes, but also much easier to cook this way. : Translation Here
+Pigus slimus : Translation Here
+What even is this thing?!? As long as it's edible, I guess I shouldn't complain. It's also handy that you don't need two for them to reproduce. : Translation Here
+Pigus slimus egg : Translation Here
+Not chewing gum! I will not make that mistake twice. If I leave it in the sun for a bit it will hatch. : Translation Here
+Dead Pigus slimus : Translation Here
+Just as ugly dead as it was alive. Shame. : Translation Here
+Butchered Pigus slimus : Translation Here
+Infinitely better cooked. Unless you like gelatin, and I don't mean the jello kind. : Translation Here
+Pigus slimus steak : Translation Here
+A few french fries and I'd be in business. I can see it now : Translation Here
+Cooked Pigus slimus egg : Translation Here
+Not as good as a chicken egg, but much better than starvation. : Translation Here
+Pig Trap : Translation Here
+Your one-stop pig-catching shop. : Translation Here
+Pigus slimus recipe : Translation Here
+Add to the lab. : Translation Here
+Instructions for the Ore Extractor : Translation Here
+Hmm. What do we have here? : Translation Here
+Dead Pigus slimus recipe : Translation Here
+Add to the butcher table next to the fireplace. : Translation Here
+Butchered Pigus slimus recipe : Translation Here
+Add to the butcher table next to the fireplace. : Translation Here
+Pigus slimus steak recipe : Translation Here
+Add to the cooking pot. : Translation Here
+Cooked Pigus slimus egg recipe : Translation Here
+Add to the cooking pot. : Translation Here
+Pig Feed : Translation Here
+Pigs love it. They live for it, in fact, and failure to provide it results in sudden, totally predictable loss of pig life. : Translation Here
+Mutant Food : Translation Here
+GMO food for GMO animals. : Translation Here
+Stone Fence : Translation Here
+A nice, sturdy stone fence for keeping pets. For food. But not pet food. : Translation Here
+Ratus galinae : Translation Here
+This is what you get if you mix a chicken with a rat. Won't win any beauty contests, but tastes halfway decent. Reproduces asexually, which is the only kind of reproducing I'm going to be doing if there aren't any women left. : Translation Here
+Ratus galinae egg : Translation Here
+Eat it or let it hatch, your choice. Like choosing between plague or cholera--neither is great but one is a lot worse. : Translation Here
+Butchered Ratus galinae : Translation Here
+Hopefully it will smell better when it's cooked. : Translation Here
+Ratus galinae stew : Translation Here
+Nope, still stinks. : Translation Here
+Cooked Ratus galinae egg : Translation Here
+Rotten egg, mutant egg--not much difference, to be honest. : Translation Here
+Dead Ratus galinae : Translation Here
+That's an affirmative. Alive or dead they smell exactly the same. : Translation Here
+Ratus galinae recipe : Translation Here
+Add to the lab. : Translation Here
+Butchered Ratus galinae recipe : Translation Here
+Add to the butcher table next to the fireplace. : Translation Here
+Recipe for One Dead Ratus Galinae : Translation Here
+Add to the butcher table next to the fireplace. : Translation Here
+Cooked Ratus Galinae Egg Recipe : Translation Here
+Add to the cooking pot. : Translation Here
+Recipe for Ratus Galinae Stew : Translation Here
+Add to the cooking pot. : Translation Here
+Chemical Blessing Recipe : Translation Here
+Add to the lab. : Translation Here
+Rocking Chair : Translation Here
+For killing time and your dignity. : Translation Here
+Lizard Leather : Translation Here
+Only a hundred more and it's lizard pants for Léon! : Translation Here
+Lizard Kabob : Translation Here
+Mmm! Tastes like chicken! : Translation Here
+Butchered Lizard : Translation Here
+No skin, no guts, just raw, tasty-looking lizard flesh. : Translation Here
+Dead Beetle : Translation Here
+Don't try to juice it! : Translation Here
+Beetle Kabob : Translation Here
+Cruchy, crispy, kind of creepy. : Translation Here
+XXL Backpack : Translation Here
+Better than a 4.11 backpack : Translation Here
+Trash Incinerator : Translation Here
+Anything you'll never, ever want to see again, toss in here. No, mother-in-laws don't fit. : Translation Here
+Concrete Slab : Translation Here
+For making pretty little paths or stopping the spread of toxic fungus, take your pick. : Translation Here
+Coffee Seeds : Translation Here
+This one's for planting, not for roasting. : Translation Here
+Bric-a-brac : Translation Here
+If you have lost an object, it may be in it. : Translation Here
+Toolbox : Translation Here
+A box for storing what you guessed. : Translation Here
+Herbarium : Translation Here
+The herbarium is used for storing your legal herbs and plants. : Translation Here
+Meat safe : Translation Here
+Your stomach's favorite furniture item. : Translation Here
+Seed shelf : Translation Here
+Allows you to store your precious seeds. : Translation Here
+Onion : Translation Here
+It's not just onions that make you cry, know that you're alone on earth too. : Translation Here
+Pumpkin : Translation Here
+I just need to find a disguise and I can do Halloween. : Translation Here
+Onion seed : Translation Here
+Allows you to grow onions. : Translation Here
+Pumpkin seed : Translation Here
+Allows you to grow pumpkins. : Translation Here
+Lizard leather flask : Translation Here
+A beautiful lizard leather flask that allows you to store more water than a normal gourd. : Translation Here
+Kitchen fountain : Translation Here
+A huge water container that is mainly used for the kitchen. : Translation Here
+Onion soup : Translation Here
+Vegetable liquid for food use. : Translation Here
+Pumpkin soup : Translation Here
+Vegetable liquid for food use. : Translation Here
+Metal water collector : Translation Here
+A water collector that can store and collect more water than a wooden one. : Translation Here
+Medicine cabinet : Translation Here
+Useful for storing and organizing your remedies : Translation Here
+Enhanced kitchen : Translation Here
+It allows you to use several items as fuel. : Translation Here
+Sandbag : Translation Here
+Hmm...if I had an ocean’s worth of water I could make a beach! : Translation Here
+Salt : Translation Here
+The yin to pepper’s yang. Great for preserving food. : Translation Here
+Sandy Soil : Translation Here
+Not hard to find in this godforsaken place... : Translation Here
+Boiled Ham : Translation Here
+For preserving food--vital under the circumstances. : Translation Here
+Jar 'O Chicken : Translation Here
+For preserving food--vital under the circumstances. : Translation Here
+Rat in a Jar : Translation Here
+For preserving food--vital under the circumstances. : Translation Here
+Jar : Translation Here
+Use for preserving food. : Translation Here
+Bean Flour : Translation Here
+Used in bean patties. Will not decay. : Translation Here
+Corn Flour : Translation Here
+Used in bread. Does not decay. : Translation Here
+Cornbread : Translation Here
+More nutritious than wheat bread. (Note: Keep out of reach of rats.) : Translation Here
+Bean Patties : Translation Here
+One bite will fill you up! : Translation Here
+Tomato Preserves : Translation Here
+Red as cherries, but still tomatoes... : Translation Here
+Turnip à la Léon : Translation Here
+Exactly like a carrot except for the color and the shape. : Translation Here
+Fruit : Translation Here
+Cloth : Translation Here
+Consumable : Translation Here
+Furniture : Translation Here
+Seed : Translation Here
+Resource : Translation Here
+Waste : Translation Here
+Fillable : Translation Here
+Fuel : Translation Here
+Don't get carried away, Léon. If you think you can fix up this pile of scrap to play the fool on a beach somewhere you're going to end up with tetanus, not with all the ladies. : Translation Here
+Life hangs by a thread, eh? I'll just help myself to these jeans, and that knife...what? It's not like he's going to be needing them anymore. : Translation Here
+The space capsul might be trashed, but the cargo box is intact. I wonder if UASA will deduct the cost of the crash from my pay...ha! I'd like to see them try. I'd like to see them period, to be honest, but that isn't likely, now is it? : Translation Here
+Interesting. There's still a little green on this tree, but all the others are dead. Looks like finding water is going to be a major problem. : Translation Here
+Once this fills with water I'll be able to see my shiny bald head again. Of course, my hair will grow back quickly if the hormonal disorder I had before departure...*cough*....um, forget I said that... : Translation Here
+Failure to sleep right now will be catastrophic to the success of my long-term plan, namely, not dying. : Translation Here
+Dang it. I'm going to need an empty bottle or something. : Translation Here
+You must be joking--a speed limit sign? Better not tell anyone I came in at mach 3. Still, guess I'd better read it. : Translation Here
+Right tool, wrong place. : Translation Here
+My stomach must think I don't have teeth anymore. : Translation Here
+My stomach must think I don't have teeth anymore. : Translation Here
+Hmm...what do we have to snack on around here? There's always my shoes, I guess. But seriously. I need to eat if you want to keep playing. : Translation Here
+I'm fading fast. I need food. Like, five minutes ago. : Translation Here
+I can't believe I'm still alive! Hang on a minute. This doesn't look much like the Earth I remember...is it possible the AI made a mistake? Eh, it could be worse--at least it's warm. : Translation Here
+I need water... : Translation Here
+If I don't drink something, I'm going to die. It doesn't get much more clear cut than that. : Translation Here
+I've still got it! This is a fantastic cup of coffee. Where are you now, Frank, with your gourmet coffee blends? What's that? Dead for 300 years? Jokes on you, Frank. Jokes on you. : Translation Here
+The bubbles are poisoning me--I need to drink Thyme Tea. : Translation Here
+It's past time for Thyme Tea--the higher my toxicity, the more I'll need to eat and drink. : Translation Here
+I can't keep up with my hunger and thirst! I need Thyme Tea! : Translation Here
+The toxins are making it hard to keep up with my hunger and thirst--I'm going to die if I don't act quickly! : Translation Here
+Maybe by selecting the plants that I cut, I will increase the presence of others. : Translation Here
+
+                  Welcome Stranger! I've written my last will and testament on the wall beyond the fence. Now that I can't donate my body to science, feel free to throw what's left of me in a composter. I've always prided myself on being useful and would hate to fall short now.
+                 : Translation Here
+Using strength that would better serve me staying alive, I prefer to leave like a wise Moïse, sharing what little wisdom I have with whatever poor schmuck stumbles upon my rotting corpse. If you are reading this, you must be an angel fallen from the sky, as there is no one left alive down here but me. We have destroyed this world, poisoning even the bright blue sky above with our passion for destruction, our aptitude for exploitation. Whoever you are, I owe you this, at least, that you might survive a day or two longer in this dessicated world we have made. : Translation Here
+It would seem Mother Nature has had enough of our meddling, our desperate attempts to correct our past mistakes. Without consciousness, without hate, without premeditation, she has been a witch in her way, more effective in one act than all our petty projects put together. This fungus, this blight, has birthed another species that now infects and poisons man as surely as we infected and poisoned the earth. Heed me: boil your water, eat nothing uncooked, and perhaps, perhaps, you stand a chance. We thought we were giants, ruling a planet made for us alone; Mother Nature has pulled back the curtain on our sham, revealing our foolish arrogance for what it truly was. You are but a speck among the dust. Watch closely for the broom.
+ : Translation Here
+<= Steelwork : Translation Here
+Beware the fungus, and walk not upon it for it will kill you without pause. Planting trees makes it recede, but I'm too tired for all that now. If you have more strength, go, explore. I met an old man once who played the scientist with mutagens and feasted upon strange insects of his own creation. I prefer my rats and chickens, but perhaps the oddities will suit you. Seek him out, if you dare. Mayhaps his machinations have turned him into a monster, so beware, lest he eat you as well. Here find your inheritance, poor soul, the legacy of all mankind. Ciao, I have a collar waiting and it's impatience cannot be denied. : Translation Here
+Day : Translation Here
+Hour : Translation Here
+Inventory : Translation Here
+Equip : Translation Here
+Unequip : Translation Here
+Consume : Translation Here
+Learn : Translation Here
+Read : Translation Here
+Drink : Translation Here
+Contaminated : Translation Here
+Boil : Translation Here
+Fabrication Time : Translation Here
+Time : Translation Here
+Continue : Translation Here
+New Game : Translation Here
+Exit : Translation Here
+Shave : Translation Here
+Drop : Translation Here
+Save finished : Translation Here
+Skip : Translation Here
+Save : Translation Here
+Help : Translation Here
+Close help : Translation Here
+Saving... : Translation Here
+Yes : Translation Here
+No : Translation Here
+Recipe Added! : Translation Here
+Place water here : Translation Here
+Credit : Translation Here
+Main menu : Translation Here
+Monday : Translation Here
+Tuesday : Translation Here
+Wednesday : Translation Here
+Thursday : Translation Here
+Friday : Translation Here
+Saturday : Translation Here
+Sunday : Translation Here
+Load : Translation Here
+leftover : Translation Here
+Repair : Translation Here
+Recharging : Translation Here
+Fuel : Translation Here
+Will decay in : Translation Here
+days : Translation Here
+Decayed : Translation Here
+Honey, if you're looking for me, I'm repairing the roof in the kitchen. : Translation Here
+When you're drunk, please don't try to park around back again! : Translation Here
+I can't find the precious seed Grandpa hid so well. I hope I didn't bury it with him... PS: Don't lock the toilet door, 'cause it's broken. : Translation Here
+Instructions for Use: Place a chunk of rock containing ore in the machine, then wait for it to extract the ore. Examples: Ferrite => Iron
+	  			Clay Soil => Clay : Translation Here
+Maybe I've found a superhero hideout, haha... : Translation Here
+As if these flowers have ever grown on the tombs of his forebears… hum hum. : Translation Here
+I should bring this machine back to the house! : Translation Here
+Ugh. This stinky purple ooze must be poisonous. I need to get rid of it before I can explore the rest of the area. I wonder if planting trees near the edges will help? : Translation Here
+Corn! I should make a Seed Sorter so I can use this to start a garden. I won't make it long with what's left from the space capsule and what little supplies I've found around here. : Translation Here
+What idiot would put a water collector inside the house?!? Since I can't move it I'll have to build my own and hope it rains again someday. : Translation Here
+Wow! This is the perfect home for all of us! I'm sure it's not remotely dangerous. Previously on Drying Dead... : Translation Here
+The local fauna must be rich in protein here when you imagine what they eat! Hehe! : Translation Here
+The necromancer is out of service, he must have joined his customers! Haha! : Translation Here
+I told you I was a boyscout! : Translation Here
+I don't think it would be much fun exploring this underground maze without a light. I wouldn't be able to read the compass...that I don't have... : Translation Here
+This looks like the home of a mad man...reminds me of my old house, actually. : Translation Here
+Ah! Sand! : Translation Here
+Woodstore. Add logs here to fuel the cooking fire. : Translation Here
+If I can find some recipes, I can do chemistry here! : Translation Here
+This little pot with work for now. I'll build a better way to cook when I have more time. And at least I don't need to boil the water just to use it in recipes--all the toxins will be removed during the cooking process. : Translation Here
+Butcher Table. Perfect for chopping up animals before cooking them! : Translation Here
+I'd better start by making a water collector...I just hope it still rains on this planet. : Translation Here
+Look! Thyme was growing around this dead tree. I must plant trees quickly to get the plants I'll need to survive! : Translation Here
+Are you sure? It will overwrite your save! : Translation Here
+Go to sleep? : Translation Here
+How long would you like to do nothing? : Translation Here
+Are you sure you want to return to the main menu? Any unsaved progress will be lost. : Translation Here
+Heart Beats per Minute. If it reaches zero, Léon dies. : Translation Here
+Thirst. When it reaches zero Léon's BPM will start going down. : Translation Here
+Hunger. When it reaches zero Léon's BPM will start going down. : Translation Here
+Toxicity. The higher it is the faster Léon's hunger and thirst will go down. : Translation Here
+Energy. When it reaches zero Léon's BPM will start going down. : Translation Here
+Move Léon. : Translation Here
+The amount of healthy vegetation in the world. : Translation Here
+Interact with the closest object. : Translation Here
+Use the equipped object on the closest object. : Translation Here
+Open Inventory : Translation Here
+Quick Access Bar. Drag and drop items here to use them without opening your inventory. : Translation Here
+Forgotten by his compatriots, he spent a long, dreamless, cryogenic night traveling the silent depths of deepest space. After a journey of 300 years, the ship's AI awakens him, having finally returned him to his native Earth.
+
+Since he has been gone, however, Earth has been ravaged by a toxic fungal infestation that has left nothing behind save the ragged wreckage of mankind. Thanks Rosanto!
+
+But he is, afterall, an earthling, and he is home. He will survive...or not. Armed only with a protocal brief from UASA (pronounced "WAZA") and the little he learned as a boyscout in the '80s, he must adapt quickly or he will surely succomb to the toxic slime poisoning the planet. : Translation Here
+Volume : Translation Here
+Resolution : Translation Here
+Screen Mode : Translation Here
+Fullscreen : Translation Here
+Fullscreen Window : Translation Here
+Maximized Window : Translation Here
+Windowed : Translation Here
+Controls : Translation Here
+Move Up : Translation Here
+Move Left : Translation Here
+Move Down : Translation Here
+Move Right : Translation Here
+Interact : Translation Here
+Use equipped object : Translation Here
+Open inventory : Translation Here
+Access options : Translation Here
+Quick access 01 : Translation Here
+Quick access 02 : Translation Here
+Quick access 03 : Translation Here
+Quick access 04 : Translation Here
+Quick access 05 : Translation Here
+Settings : Translation Here
+Zoom +/- : Translation Here
