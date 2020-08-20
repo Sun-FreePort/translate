@@ -24,25 +24,25 @@ I'm dying! Argh! Beurg! Gah! : 我要死啦！啊！贝格！嗷！
 Ah! It's broken. My kingdom for a workbench and a sharpening stone : 哦它坏了！我们需要一个工作台和一块磨刀石，方可维护它。
 Come on, Léon. Hoe first, then plant. You got this. : 嘿，里昂，先锄地、再种植，你明白的。
 Just pouring water on the ground probably isn't a good idea, all things considered... : 嘿！想清楚再做，仅仅是将水随意泼洒，这算不上一个好主意。
-I need to save fertlizer for ground I've prepared with the hoe. : Translation Here
+I need to save fertlizer for ground I've prepared with the hoe. : 来吧，我们先为地面施肥，接着，我准备好锄头了！
 My energy is better spent elsewhere. : 我的精力最好用在其他地方。
 There's something in the way. : 路上有什么东西。
 I can't swallow anymore... : 实在是吃不下了
 There is not enough fuel. : 燃料不够。
 Chicken : 鸡
-What a fine, fat chicken. I can see it now: Léon's Green Fried Chicken. Maybe it's the radiation, but it would seem I don't need a rooster for them to reproduce. Poor roosters, nothing to do now, nobody wants them... : Translation Here
-Egg : Translation Here
-I'm going to be a father! Wait. That doesn't sound right. I'm just going to leave this here and see if it hatches... : Translation Here
-Chick : Translation Here
-You're not going to eat it are you?!? : Translation Here
-Rat : Translation Here
-Rats are pretty cute when you're not hungry. Two rats and we'll have rat babies. Say that three times fast. Rat babies, bat rabies, rab scabies... : Translation Here
+What a fine, fat chicken. I can see it now: Léon's Green Fried Chicken. Maybe it's the radiation, but it would seem I don't need a rooster for them to reproduce. Poor roosters, nothing to do now, nobody wants them... : 多么肥的鸡。我现在就可以看到它的样子：莱昂的绿色炸鸡！好吧，也许富含辐射。现在看来，我不需要喂养太多的公鸡。可怜的公鸡，现在无所事事，没人要它们。
+Egg : 蛋
+I'm going to be a father! Wait. That doesn't sound right. I'm just going to leave this here and see if it hatches... : 我要当父亲了！等等，这听起来有点怪。我只需要将它留在这里，并看看它是不是可以孵化出来。
+Chick : 小鸡
+You're not going to eat it are you?!? : 你是不食人间烟火的仙子，是吗？
+Rat : 老鼠
+Rats are pretty cute when you're not hungry. Two rats and we'll have rat babies. Say that three times fast. Rat babies, bat rabies, rab scabies... : 当我不饿的时候，老鼠会显得很可爱。如果我有两只老鼠，那就能期待老鼠宝宝，但一切都因此奔向疯狂，老鼠们带来了鼠疫、恐水症状、狂犬病、疥疮……
 Axe : 斧子
 Probably good for chopping wood and stuff. You know, like an...axe. : 有些工具很适合切碎木材和物品，你知道的，就像是……斧子。
-Hoe : Translation Here
-Use this to prepare the ground for planting. : Translation Here
-Compost : Translation Here
-A little of this on plain old ground and voilá! Fertile earth! : Translation Here
+Hoe : 锄头
+Use this to prepare the ground for planting. : 为了种植作物，我们需要先用它来松弛土壤。
+Compost : 堆肥
+A little of this on plain old ground and voilá! Fertile earth! : 放置在一小片贫瘠的旧土上，稍等一会儿——沃土！
 Flask : Translation Here
 Things are looking up, Léon. I bet I can fill this at the water collector. : Translation Here
 Sleeveless T-shirt : Translation Here
@@ -61,8 +61,8 @@ Watering Can : Translation Here
 See those little holes? That's where the water comes from. : Translation Here
 Wheat : Translation Here
 From here to bread is only a month's worth of work. : Translation Here
-Beans : Translation Here
-Beans, beans, good for the heart... : Translation Here
+Beans : 大豆
+Beans, beans, good for the heart... : 大豆、大豆，对心脏有益处的大豆。
 Corn : 玉米
 Ahh, for a jug of butter and a good French film. At least the rats love it. : 啊哈，我们还需要一罐黄油和一部精妙的法国电影……好吧，至少老鼠会喜欢它。
 Gas Mask : Translation Here
@@ -97,16 +97,16 @@ Tomato : Translation Here
 A nice, juicy tomato. : Translation Here
 Plastic Bottle : Translation Here
 Holds up to 100 units of water. Can be refilled at a water collector. : Translation Here
-Wooden Chest : Translation Here
-For all your basic storage needs. : Translation Here
-Composter : Translation Here
-Place outside and add organic waste to get compost. : Translation Here
+Wooden Chest : 木箱子
+For all your basic storage needs. : 满足您的一切基本存储需求。
+Composter : 堆肥箱
+Place outside and add organic waste to get compost. : 放入有机废料后，能获得令土壤肥沃的堆肥。注意它散发的味道——请放置在室外。
 Bed : Translation Here
 A place to sleep. Useful for treating insomnia. : Translation Here
-Water Collector : Translation Here
-Place outside and watch it fill with rain water. No work necessary, just the way I like it. : Translation Here
-Small Water Collector : Translation Here
-A barrel that stores rainwater. : Translation Here
+Water Collector : 集水器
+Place outside and watch it fill with rain water. No work necessary, just the way I like it. : 放置在露天环境，即可看着它装满雨水——只需要安静的等待，我喜欢这样。
+Small Water Collector : 小型集水器
+A barrel that stores rainwater. : 一个存储雨水的桶。
 Lethal Trap : Translation Here
 Place outside and kill some little animals. Mmm...rat-kabobs anyone? : Translation Here
 Non-Lethal Trap : Translation Here
@@ -117,8 +117,8 @@ Wooden Fence : Translation Here
 Like chain link, but without the links. : Translation Here
 Wooden Gate : Translation Here
 Your basic wooden gate. For going into and out of pastures. : Translation Here
-Branch : Translation Here
-Branch in tree wood. : Translation Here
+Branch : 树枝
+Branch in tree wood. : 树枝源于树林。
 Raw wood : 原木
 A plain old log. Slap 'em in the woodstore beside the fireplace for cooking fuel. : 朴素的木头。将它扔进壁炉，在噼啪声中化作烹饪美食的燃料。
 Espresso : Translation Here
@@ -225,12 +225,12 @@ Roast Chicken : Translation Here
 When you're starving, it looks quite delicious. : Translation Here
 Vegetarian Stew : Translation Here
 Ratless but not tasteless! : Translation Here
-Butchered Rat : Translation Here
-Chop off the tail, slice off the ears, and it almost looks like a tiny little chicken. : Translation Here
-Dead Rat : Translation Here
-Totally dead. Not even breathing. : Translation Here
-Roast Rat : Translation Here
-Roasted rat. How did it come to this? : Translation Here
+Butchered Rat : 处理后的老鼠
+Chop off the tail, slice off the ears, and it almost looks like a tiny little chicken. : 去尾，切耳，嚯，它几乎像只小鸡。
+Dead Rat : 死老鼠
+Totally dead. Not even breathing. : 它没了声息，死透了。
+Roast Rat : 烤老鼠
+Roasted rat. How did it come to this? : 酥脆的烤老鼠，让我们瞧瞧，它是怎样制作出来的。
 Military Ration : Translation Here
 Your basic MRE: Meals Rejected by Everyone. At least it isn't infected by the toxins. : Translation Here
 Cooked Wild Greens : Translation Here
@@ -255,8 +255,8 @@ Ferrite : Translation Here
 Stone with iron in it. Heavy, man. : Translation Here
 Chicken Food : Translation Here
 Pretty self-explanatory. : Translation Here
-Rat Food : Translation Here
-Fatten up a rat who'll fatten up me. : Translation Here
+Rat Food : 鼠粮
+Fatten up a rat who'll fatten up me. : 丰满的老鼠也会丰满我的胃。
 Salt Stone : Translation Here
 Might look like sugar, but never ice a cake with it. Live and learn. : Translation Here
 Sharpening Stone : 磨刀石
@@ -397,8 +397,8 @@ Recipe for Ratus Galinae Stew : Translation Here
 Add to the cooking pot. : Translation Here
 Chemical Blessing Recipe : Translation Here
 Add to the lab. : Translation Here
-Rocking Chair : Translation Here
-For killing time and your dignity. : Translation Here
+Rocking Chair : 摇椅
+For killing time and your dignity. : 为了消磨时间和尊严。
 Lizard Leather : Translation Here
 Only a hundred more and it's lizard pants for Léon! : Translation Here
 Lizard Kabob : Translation Here
@@ -443,8 +443,8 @@ Onion soup : Translation Here
 Vegetable liquid for food use. : Translation Here
 Pumpkin soup : Translation Here
 Vegetable liquid for food use. : Translation Here
-Metal water collector : Translation Here
-A water collector that can store and collect more water than a wooden one. : Translation Here
+Metal water collector : 金属集水器
+A water collector that can store and collect more water than a wooden one. : 相比木制集水器，这玩意的雨水容纳能力强悍的吓人。
 Medicine cabinet : Translation Here
 Useful for storing and organizing your remedies : Translation Here
 Enhanced kitchen : Translation Here
@@ -556,7 +556,7 @@ leftover : 剩余
 Repair : 修理
 Recharging : Translation Here
 Fuel : 燃料
-Will decay in : Translation Here
+Will decay in : 距离变质还有
 days : Translation Here
 Decayed : Translation Here
 Honey, if you're looking for me, I'm repairing the roof in the kitchen. : Translation Here
@@ -586,7 +586,7 @@ Look! Thyme was growing around this dead tree. I must plant trees quickly to get
 Are you sure? It will overwrite your save! : Translation Here
 Go to sleep? : Translation Here
 How long would you like to do nothing? : Translation Here
-Are you sure you want to return to the main menu? Any unsaved progress will be lost. : Translation Here
+Are you sure you want to return to the main menu? Any unsaved progress will be lost. : 你确认要返回主菜单吗？希望你已经存好了档。
 Heart Beats per Minute. If it reaches zero, Léon dies. : Translation Here
 Thirst. When it reaches zero Léon's BPM will start going down. : Translation Here
 Hunger. When it reaches zero Léon's BPM will start going down. : Translation Here
