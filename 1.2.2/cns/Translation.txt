@@ -417,8 +417,8 @@ Concrete Slab : 混凝土板
 For making pretty little paths or stopping the spread of toxic fungus, take your pick. : 如果你喜欢羊肠小径，或者想要阻隔有毒真菌，它是个不错的选择。
 Coffee Seeds : Translation Here
 This one's for planting, not for roasting. : Translation Here
-Bric-a-brac : Translation Here
-If you have lost an object, it may be in it. : Translation Here
+Bric-a-brac : 收纳盒
+If you have lost an object, it may be in it. : 如果你丢过什么物品，很可能在它里面。
 Toolbox : Translation Here
 A box for storing what you guessed. : Translation Here
 Herbarium : Translation Here
@@ -497,7 +497,7 @@ My stomach must think I don't have teeth anymore. : Translation Here
 My stomach must think I don't have teeth anymore. : Translation Here
 Hmm...what do we have to snack on around here? There's always my shoes, I guess. But seriously. I need to eat if you want to keep playing. : Translation Here
 I'm fading fast. I need food. Like, five minutes ago. : Translation Here
-I can't believe I'm still alive! Hang on a minute. This doesn't look much like the Earth I remember...is it possible the AI made a mistake? Eh, it could be worse--at least it's warm. : Translation Here
+I can't believe I'm still alive! Hang on a minute. This doesn't look much like the Earth I remember...is it possible the AI made a mistake? Eh, it could be worse--at least it's warm. : 真不敢相信我还活着！等一下，这似乎不是我熟悉的那个地球……是不是愚蠢的人工智能犯的错？emmm，情况似乎更糟糕，当然，至少挺暖和的。
 I need water... : 水，我需要喝水……
 If I don't drink something, I'm going to die. It doesn't get much more clear cut than that. : Translation Here
 I've still got it! This is a fantastic cup of coffee. Where are you now, Frank, with your gourmet coffee blends? What's that? Dead for 300 years? Jokes on you, Frank. Jokes on you. : Translation Here
@@ -566,9 +566,9 @@ Instructions for Use: Place a chunk of rock containing ore in the machine, then 
 	  			Clay Soil => Clay : Translation Here
 Maybe I've found a superhero hideout, haha... : Translation Here
 As if these flowers have ever grown on the tombs of his forebears… hum hum. : Translation Here
-I should bring this machine back to the house! : Translation Here
-Ugh. This stinky purple ooze must be poisonous. I need to get rid of it before I can explore the rest of the area. I wonder if planting trees near the edges will help? : Translation Here
-Corn! I should make a Seed Sorter so I can use this to start a garden. I won't make it long with what's left from the space capsule and what little supplies I've found around here. : Translation Here
+I should bring this machine back to the house! : 我应该把这台机器带回家。
+Ugh. This stinky purple ooze must be poisonous. I need to get rid of it before I can explore the rest of the area. I wonder if planting trees near the edges will help? : 喔，这种紫色软泥散发出危险的臭味，如果我想探索其他地区，看来先要摆平它们。让我想想，在附近种些树木，会对这局面有改善吗？
+Corn! I should make a Seed Sorter so I can use this to start a garden. I won't make it long with what's left from the space capsule and what little supplies I've found around here. : 嘿，这里有根玉米棒子！我应该做个种子分选机，将玉米变成种子后，就能建设一片农田了。我在太空舱里还剩下一些东西，以及附近也值得搜刮一下，应该不会浪费太多时间。
 What idiot would put a water collector inside the house?!? Since I can't move it I'll have to build my own and hope it rains again someday. : Translation Here
 Wow! This is the perfect home for all of us! I'm sure it's not remotely dangerous. Previously on Drying Dead... : Translation Here
 The local fauna must be rich in protein here when you imagine what they eat! Hehe! : Translation Here
@@ -576,16 +576,16 @@ The necromancer is out of service, he must have joined his customers! Haha! : Tr
 I told you I was a boyscout! : Translation Here
 I don't think it would be much fun exploring this underground maze without a light. I wouldn't be able to read the compass...that I don't have... : Translation Here
 This looks like the home of a mad man...reminds me of my old house, actually. : Translation Here
-Ah! Sand! : Translation Here
+Ah! Sand! : 哦，沙地！
 Woodstore. Add logs here to fuel the cooking fire. : Translation Here
-If I can find some recipes, I can do chemistry here! : Translation Here
+If I can find some recipes, I can do chemistry here! : 如果能找到一些方剂，或许我可以在这里发挥我的化学才能！
 This little pot with work for now. I'll build a better way to cook when I have more time. And at least I don't need to boil the water just to use it in recipes--all the toxins will be removed during the cooking process. : Translation Here
-Butcher Table. Perfect for chopping up animals before cooking them! : Translation Here
+Butcher Table. Perfect for chopping up animals before cooking them! : 呵，屠宰桌。非常适合处理动物，让它们更适宜烹饪。
 I'd better start by making a water collector...I just hope it still rains on this planet. : Translation Here
-Look! Thyme was growing around this dead tree. I must plant trees quickly to get the plants I'll need to survive! : Translation Here
-Are you sure? It will overwrite your save! : Translation Here
-Go to sleep? : Translation Here
-How long would you like to do nothing? : Translation Here
+Look! Thyme was growing around this dead tree. I must plant trees quickly to get the plants I'll need to survive! : 天哪！百里香长在这棵枯树的周围，但树已经死了……或许我应该赶紧种树，来获取生存所需的植物！
+Are you sure? It will overwrite your save! : 你确认吗？这将覆盖你的存档。
+Go to sleep? : 去睡觉？
+How long would you like to do nothing? : 哦嚯，你准备无所事事多久呢？
 Are you sure you want to return to the main menu? Any unsaved progress will be lost. : 你确认要返回主菜单吗？希望你已经存好了档。
 Heart Beats per Minute. If it reaches zero, Léon dies. : Translation Here
 Thirst. When it reaches zero Léon's BPM will start going down. : Translation Here
